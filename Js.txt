@@ -1,3 +1,7 @@
 console.log is used to print the msg 
 ex: console.log('Hello My first');
 .js extentsion
+dynamically typed language--> means we have not to declare or tell what is there type
+
+
+variables are conatiners for data
