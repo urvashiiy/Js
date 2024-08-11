@@ -1,0 +1,3 @@
+console.log is used to print the msg 
+ex: console.log('Hello My first');
+.js extentsion
