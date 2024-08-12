@@ -2,6 +2,23 @@ console.log is used to print the msg
 ex: console.log('Hello My first');
 .js extentsion
 dynamically typed language--> means we have not to declare or tell what is there type
+a=b means "=" assigment operator
 
-
+Variables->
+1. var: Variable can be redeclare or update. global scope
+2. let: Variable cannot be redeclare or update. block scope. ex: let age = 24;
+3. const: Variable cannot be redeclare or update. block scope
 variables are conatiners for data
+variables names are case senstive, $,_,a-z,0-10 are used for declartion,keywords are not used as a variables
+
+DataTypes in js
+1. number: 10, 20.5, 10.5+20
+2. string: "hello", 'hello', "hello world"
+3. boolean: true, false
+4. null: null
+5. undefined: undefined
+6. object: {name:"Rahul",age:24} collection of values. key:values stored in this type, obj.key or obj["key"]
+7. array: [1,2,3,4,5]
+8. symbol: Symbol("hello")
+9. BigInt: 10n, 20n
+
