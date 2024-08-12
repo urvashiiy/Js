@@ -22,3 +22,16 @@ DataTypes in js
 8. symbol: Symbol("hello")
 9. BigInt: 10n, 20n
 
+Operator in js 
+1. Arithmetic operator: +,-,*,/,%,**,++,--,--,--,--,--,--,--,
+2. Assignment operator: =,+=,-=,*=,/=,%=,**=,++,
+3. Comparison operator: ==,!=,===,!==,>,<,>=,<=
+4. Logical operator: &&,||,!,&&,||,!,&&,||,!,
+5. Bitwise operator: &,|,^,~,&,|,^,~,&
+6. Conditional operator: ? : ? :
+7. Increment/Decrement operator: ++,--,++,-,++,-,++,-,
+8. Nullish coalescing operator: ?? ??
+9. Optional chaining operator: ?? ??
+10. Exponentiation operator: ** **
+11. Spread operator: ... ...
+
