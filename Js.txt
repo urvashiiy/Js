@@ -37,3 +37,8 @@ Operator in js
 12. unary operator: ++, -- // a++ means a=a+1 same for minus
 a++ post Increment(changes value at next line ) ++a pre(change value first ) Increment same for --
 
+//loops-> are used to execute a piece of code again and again
+1. for loop: for(initialization;condition;increment/decrement){code to be executed}
+2. while loop: while(condition){code to be executed}
+3. do while loop: do{code to be executed}while(condition)
+4. for of loop: for(const variable of iterable){code to be executed}
