@@ -42,3 +42,8 @@ a++ post Increment(changes value at next line ) ++a pre(change value first ) Inc
 2. while loop: while(condition){code to be executed}
 3. do while loop: do{code to be executed}while(condition)
 4. for of loop: for(const variable of iterable){code to be executed}
+5. for in loop: for(const variable in object){code to be executed}
+
+
+//string
+1. string concatenation: "hello" + "world"
